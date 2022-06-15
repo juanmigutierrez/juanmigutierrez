@@ -1,10 +1,7 @@
 <h1 align="center">
 Hi there 👋 my name is Juan Miguel Gutierrez
 </h1>
-  
-<div align="center">
-<img src="https://www.bucolicterrains.com/assets/GIFS/Scene_8_Optical_11608-254.gif" align="center" style="width: 1000px" />
-</div>  
+
 
 <h2 align="center">
   I'm Data Scientist / Machine Learning Engineer. Currently working in https://quantil.co/
