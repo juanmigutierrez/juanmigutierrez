@@ -64,7 +64,36 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 #### **NLP**
 - [Chatbot](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/Chatbot) - Python
 - [ASR System](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/ASR_System) - Python
+- [Product Matching text - Mercado Libre](https://github.com/juanmigutierrez/Mercado_libre) - Python
 
 #### **Computer Vision**
 - [Music Classification](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Computer%20Vision/Music_Classification) - Python
 - [Replication Paper Cancer](https://github.com/juanmigutierrez/Python_Jupyter/blob/master/Computer%20Vision/Cancer_paper/Cancer_Proyecto_Miguel_Gutierrez.ipynb) - Python
+- [Image matching text - Mercado Libre](https://github.com/juanmigutierrez/Mercado_libre) - Python
+  
+#### **Machine Learning**
+- [Cluestering Color Paints](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Machine_Learning/Clustering%20I%20Paintings) - Python
+  
+  
+### 📝 **Certifications**
+
+* Machine learning Engineer @ [Workera](https://app.workera.ai/public/candidate/certificate?code=6FXKTLBM)
+* Intermediate Machine Learning @ [kaggle](https://www.kaggle.com/learn/certification/randomizedguy/intermediate-machine-learning)
+* SQL @ [TestDome](https://www.datacamp.com/statement-of-accomplishment/course/22360d1cd55e54966f0229fed9a0b174e6182517)
+* Deep Learning @ [Coursera](https://www.coursera.org/account/accomplishments/verify/RA9CJKLHAWF5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+  
+  
+<p align="center">
+  
+ <a href="https://github.com/juanmigutierrez/juanmigutierrez">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmigutierrez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+ 
+<a href="https://github.com/joseluistello/joseluistello">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmigutierrez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JuanMiguel's GitHub Stats" />
+</a>
+  
+</p>
+
+
+
