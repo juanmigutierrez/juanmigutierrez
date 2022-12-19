@@ -79,7 +79,7 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 * SQL @ [TestDome](https://www.datacamp.com/statement-of-accomplishment/course/22360d1cd55e54966f0229fed9a0b174e6182517)
 * Deep Learning @ [Coursera](https://www.coursera.org/account/accomplishments/verify/RA9CJKLHAWF5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 * Unsupervised Learning, Recommenders, Reinforcement Learning [Coursera](https://www.coursera.org/account/accomplishments/certificate/2RKVFH2KDD9C)
-* Deep Learning Reinforcement Learning (In Process).
+* Deep Learning Reinforcement Learning [Hugging Face] (In Process).
   
   
 <p align="center">
