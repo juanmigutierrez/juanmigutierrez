@@ -4,7 +4,7 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 
 <h2 align="center"
-  I'm Data Scientist / Machine Learning Engineer. Currently working in https://www.mercadolibre.com.co
+  I'm Data Scientist / Machine Learning Engineer. Currently working in Mercado Libre
 </h2>
 
 <p align="center">
