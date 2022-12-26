@@ -3,8 +3,8 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 </h1>
 
 
-<h2 align="center">
-  I'm Data Scientist / Machine Learning Engineer. Currently working in [Mercado Libre](https://www.mercadolibre.com.co/).
+<h2 align="center"
+  I'm Data Scientist / Machine Learning Engineer. Currently working in https://www.mercadolibre.com.co
 </h2>
 
 <p align="center">
