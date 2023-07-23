@@ -38,8 +38,8 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 ### Besides Data Science and Machine Learning, what do I do and what do I love? 👇
 
-- ❤️ I enjoy learning new things stuff and help people.
-- ⚡ I also work with two professours on Differential Privacy.
+- ❤️ I enjoy learning new things stuff and help people learning.
+- ⚡ I do research on differential privacy.
 - 😊 I love see cartoons and anime.
 - 🎥 Sometimes I help to organize Data Science and Machine Learning Conferences.
 
