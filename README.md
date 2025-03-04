@@ -11,18 +11,8 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 <!-- Website -->
 
-<a href="https://joseluistello.live/">
+<a href="[https://joseluistello.live/](https://juanmigutierrez.com/)">
 <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
-</a>
-
-<!-- Youtube -->
-<a href="https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw">
-<img alt="Youtube" src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-</a>
-
-<!-- Gmail -->
-<a href="mailto:samsungs2miguel@gmail.com">
-<img alt="Gmail" src="https://camo.githubusercontent.com/b070a7f6855dbf52729ec83a928c93e728f5245e24123a6547912acea3753899/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476d61696c26636f6c6f723d454134333335266c6f676f3d476d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </a>
 
 <!-- Linkedin -->
@@ -32,7 +22,7 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 <!-- Twitter -->
 <a href="https://twitter.com/MiguelG08327168">
-<img alt="Twitter" src="https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+<img alt="Twitter" src="[https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png)" />
 </a>
 
 
