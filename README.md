@@ -43,7 +43,7 @@ Hi there 👋 my name is Juan Miguel Gutierrez
  ### 💡 **Projects**
 
  #### **Graph and CUDA**
-- [HNWS Cuda Optimization Code OraclexPolimi 2024]([https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/Chatbot](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/Chatbot](https://github.com/Syauqi99/HNSWCudaHPGDA24)) - C++
+- [HNWS Cuda Optimization OracleXPolimi](https://github.com/Syauqi99/HNSWCudaHPGDA24) - C++
   
 #### **NLP**
 - [Chatbot](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/Chatbot) - Python
