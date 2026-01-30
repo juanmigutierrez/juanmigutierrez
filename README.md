@@ -42,6 +42,10 @@ Hi there 👋 my name is Juan Miguel Gutierrez
   
  ### 💡 **Projects**
 
+#### **Agentic AI**
+- [LLM-Powered Data Analysis System: An Accuracy-Focused Evaluation of Open Source Models](https://github.com/Palpal16/DataAgent)) - Python/C++
+
+
  #### **Graph and CUDA**
 - [HNWS Cuda Optimization OracleXPolimi](https://github.com/Syauqi99/HNSWCudaHPGDA24) - C++
   
