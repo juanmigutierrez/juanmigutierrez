@@ -65,16 +65,6 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 - [Cluestering Color Paints](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Machine_Learning/Clustering%20I%20Paintings) - Python
   
   
-### 📝 **Certifications**
-
-* Machine learning Engineer @ [Workera](https://app.workera.ai/public/candidate/certificate?code=6FXKTLBM)
-* Intermediate Machine Learning @ [kaggle](https://www.kaggle.com/learn/certification/randomizedguy/intermediate-machine-learning)
-* SQL @ [TestDome](https://www.datacamp.com/statement-of-accomplishment/course/22360d1cd55e54966f0229fed9a0b174e6182517)
-* Deep Learning @ [Coursera](https://www.coursera.org/account/accomplishments/verify/RA9CJKLHAWF5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-* Unsupervised Learning, Recommenders, Reinforcement Learning [Coursera](https://www.coursera.org/account/accomplishments/certificate/2RKVFH2KDD9C)
-* Deep Learning Reinforcement Learning [Hugging Face] (In Process).
-  
-  
 <p align="center">
   
  <a href="https://github.com/juanmigutierrez/juanmigutierrez">
