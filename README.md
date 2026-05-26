@@ -42,6 +42,10 @@ Hi there 👋 my name is Juan Miguel Gutierrez
   
  ### 💡 **Projects**
 
+### Web Development + AI + Multimodal (Computer Vision, AR, Sound)
+- [Heritedge](https://github.com/juanmigutierrez/heritedge) - Node.js, Typescript, Java
+
+
 #### **Agentic AI**
 - [LLM-Powered Data Analysis System: An Accuracy-Focused Evaluation of Open Source Models](https://github.com/Palpal16/DataAgent)) - Python/C++
 
