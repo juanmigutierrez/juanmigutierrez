@@ -11,7 +11,7 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 <!-- Website -->
 
-<a href="[https://joseluistello.live/](https://juanmigutierrez.com/)">
+<a href="[https://joseluistello.live/](https://juanmigutierrez.github.io/)">
 <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
 </a>
 
@@ -68,19 +68,6 @@ Hi there 👋 my name is Juan Miguel Gutierrez
   
 #### **Machine Learning**
 - [Cluestering Color Paints](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Machine_Learning/Clustering%20I%20Paintings) - Python
-  
-  
-<p align="center">
-  
- <a href="https://github.com/juanmigutierrez/juanmigutierrez">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmigutierrez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
- 
-<a href="https://github.com/joseluistello/joseluistello">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmigutierrez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JuanMiguel's GitHub Stats" />
-</a>
-  
-</p>
 
 
 
