@@ -48,12 +48,13 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 
 #### **Agentic AI**
 - [LLM-Powered Data Analysis System: An Accuracy-Focused Evaluation of Open Source Models](https://github.com/Palpal16/DataAgent)) - Python/C++
-
+- [Sentinel — AI Remote Patient Intelligence](https://github.com/juanmigutierrez/remote-patient-intelligence-LLM) - Python
 
  #### **Graph and CUDA**
 - [HNWS Cuda Optimization OracleXPolimi](https://github.com/Syauqi99/HNSWCudaHPGDA24) - C++
   
 #### **NLP**
+- [Recommendationg System - Generative AI](https://github.com/juanmigutierrez/generative-recommendation-engine) - Python
 - [Chatbot](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/Chatbot) - Python
 - [ASR System](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/NLP/ASR_System) - Python
 - [Product Matching text - Mercado Libre](https://github.com/juanmigutierrez/Mercado_libre) - Python
