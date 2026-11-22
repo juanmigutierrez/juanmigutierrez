@@ -65,6 +65,10 @@ Hi there 👋 my name is Juan Miguel Gutierrez
 - [Music Classification](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Computer%20Vision/Music_Classification) - Python
 - [Replication Paper Cancer](https://github.com/juanmigutierrez/Python_Jupyter/blob/master/Computer%20Vision/Cancer_paper/Cancer_Proyecto_Miguel_Gutierrez.ipynb) - Python
 - [Image matching text - Mercado Libre](https://github.com/juanmigutierrez/Mercado_libre) - Python
+
+#### **Spatial Data Science**
+- [Fixed Rank Kriging (FRK) - Estimation of Italian municipal GDP](https://github.com/alessio6666/Fixed-Rank-Kriging--Estimation_of_Italian_municipal_GDP) - Python
+
   
 #### **Machine Learning**
 - [Cluestering Color Paints](https://github.com/juanmigutierrez/Python_Jupyter/tree/master/Machine_Learning/Clustering%20I%20Paintings) - Python
